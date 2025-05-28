@@ -1,6 +1,7 @@
-package org.amazon.example;
+package org.amazon.example.controller;
 
 
+import org.amazon.example.service.WelcomeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;

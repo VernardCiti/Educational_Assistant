@@ -1,4 +1,4 @@
-package org.amazon.example;
+package org.amazon.example.controller;
 
 public class User {
     private String firstName;

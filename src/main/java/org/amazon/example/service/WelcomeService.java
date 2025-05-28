@@ -1,4 +1,4 @@
-package org.amazon.example;
+package org.amazon.example.service;
 
 
 import org.springframework.stereotype.Service;
